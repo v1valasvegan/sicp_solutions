@@ -11,3 +11,5 @@
 
 (define (average x y)
     (/ (+ x y) 2))
+
+(define (cubic x) (* x x x))
