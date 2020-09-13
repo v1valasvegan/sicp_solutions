@@ -1,3 +1,3 @@
 # Sicp 
 
-Racket SICP solutions.
+Scheme SICP solutions.
